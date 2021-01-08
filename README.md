@@ -1,6 +1,7 @@
 <!-- ix-docs-ignore -->
 
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-core-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-core-js?ref=badge_shield)
 
 `imgix-core-js` is a JavaScript library for generating image URLs with [imgix](https://www.imgix.com/) that can be used in browser or server-side settings.
 
@@ -370,3 +371,7 @@ imgix-core-js uses mocha for testing. Here’s how to run those tests:
 ```bash
 npm test
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-core-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-core-js?ref=badge_large)
